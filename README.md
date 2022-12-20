@@ -11,3 +11,12 @@ email : mru443.dev@gmail.com
 ### Git
 * [Installation de GIT](./git/git_installation.md)
 * [Commande de base](./git/git_base.md)
+
+
+```mermaid
+graph TD;
+A-->B;
+A-->C;
+B-->D;
+C-->D;
+```
