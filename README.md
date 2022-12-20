@@ -28,4 +28,4 @@ gitGraph
    merge develop
    commit
    commit
-``
+```
