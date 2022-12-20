@@ -13,9 +13,6 @@ email : mru443.dev@gmail.com
 * [Commande de base](./git/git_base.md)
 
 ````
----
-title: Example Git diagram
----
 gitGraph
    commit
    commit
