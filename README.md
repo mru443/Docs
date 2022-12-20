@@ -13,10 +13,10 @@ email : mru443.dev@gmail.com
 * [Commande de base](./git/git_base.md)
 
 
-```mermaid
 ---
 title: Example Git diagram
 ---
+```mermaid
 gitGraph
    commit
    commit
